@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/helloworld,sol": "HelloScroll"
+			"contracts/helloScroll.sol": "HelloScroll"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -147,7 +147,7 @@
 				"dweb:/ipfs/QmP7C3CHdY9urF4dEMb9wmsp1wMxHF6nhA2yQE5SKiPAdy"
 			]
 		},
-		"contracts/helloworld,sol": {
+		"contracts/helloScroll.sol": {
 			"keccak256": "0xcd1a66ee5f9d098d569a107dc41b77c7d7dff083c791cb8024e54504d2fa9e30",
 			"license": "MIT",
 			"urls": [
